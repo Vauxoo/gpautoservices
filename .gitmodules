@@ -54,3 +54,7 @@
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
 	branch = 18.0
+[submodule "base-formula"]
+	path = base-formula
+	url = git@git.vauxoo.com:vauxoo/base-formula.git
+	branch = 18.0
