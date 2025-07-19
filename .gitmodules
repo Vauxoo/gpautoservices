@@ -62,3 +62,7 @@
 	path = product-attribute
 	url = git@github.com:Vauxoo/product-attribute.git
 	branch = 18.0
+[submodule "web"]
+	path = web
+	url = git@github.com:Vauxoo/web.git
+	branch = 18.0
