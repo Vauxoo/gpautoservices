@@ -66,3 +66,11 @@
 	path = web
 	url = git@github.com:Vauxoo/web.git
 	branch = 18.0
+[submodule "l10n-mx-edi-account-move-report"]
+	path = l10n-mx-edi-account-move-report
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-account-move-report.git
+	branch = 18.0
+[submodule "l10n-mx-cash-basis-entries"]
+	path = l10n-mx-cash-basis-entries
+	url = git@git.vauxoo.com:mexico/l10n-mx-cash-basis-entries.git
+	branch = 18.0
