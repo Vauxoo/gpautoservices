@@ -74,3 +74,7 @@
 	path = l10n-mx-cash-basis-entries
 	url = git@git.vauxoo.com:mexico/l10n-mx-cash-basis-entries.git
 	branch = 18.0
+[submodule "product-refund-accounts"]
+	path = product-refund-accounts
+	url = git@git.vauxoo.com:vauxoo/product-refund-accounts.git
+	branch = 18.0
