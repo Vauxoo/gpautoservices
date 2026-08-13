@@ -78,3 +78,7 @@
 	path = product-refund-accounts
 	url = git@git.vauxoo.com:vauxoo/product-refund-accounts.git
 	branch = 18.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 18.0
