@@ -78,3 +78,7 @@
 	path = product-refund-accounts
 	url = git@git.vauxoo.com:vauxoo/product-refund-accounts.git
 	branch = 18.0
+[submodule "l10n-mx-edi-payment-policy"]
+	path = l10n-mx-edi-payment-policy
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-policy.git
+	branch = 18.0
