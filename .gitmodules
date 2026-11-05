@@ -86,3 +86,7 @@
 	path = l10n-mx-edi-payment-policy
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-policy.git
 	branch = 18.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 18.0
